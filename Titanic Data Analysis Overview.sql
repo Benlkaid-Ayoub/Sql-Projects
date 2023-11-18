@@ -1,4 +1,4 @@
-create database titanikk;
+create database titanicdata;
 
 -- 1. Show the first 10 rows of the dataset.
 
